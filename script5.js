@@ -74,7 +74,7 @@ for (var i = 0; i < books.length; i++) {
     delete books[i];
   }
 }
-console.log("Le livre avec l'ID: 873495 titré", findBook, "a été supprimé");
+console.log("Le livre avec l'ID: 133712 titré", findBook, "a été supprimé");
 console.log(books);
 
 console.log("\n");
